@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
+  "name": "HMTHON",
+  "description": " Arabic HMTHON Powerful & Safe based on Telethon",
   "logo": "",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/thejmthon/Keploy",
+  "repository": "https://github.com/ioxv3/jm",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
